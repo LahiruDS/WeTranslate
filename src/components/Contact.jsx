@@ -95,7 +95,7 @@ export default function Contact() {
               </a>
               <a
                 className="btn btn-outline"
-                href="mailto:hello@wetranslate.lk?subject=Translation%20Quote%20Request"
+                href="mailto:ceylonlpo@gmail.com?subject=Translation%20Quote%20Request"
               >
                 Send an Email
               </a>
