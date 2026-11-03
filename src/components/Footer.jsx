@@ -39,12 +39,12 @@ export default function Footer() {
           <h4>Get in Touch</h4>
           <ul className="footer-links">
             <li>
-              <a href="tel:+94771234567">+94 77 123 4567</a>
+              <a href="tel:+94704197762">+94 70 419 7762</a>
             </li>
             <li>
-              <a href="mailto:hello@wetranslate.lk">hello@wetranslate.lk</a>
+              <a href="mailto:ceylonlpo@gmail.com">ceylonlpo@gmail.com</a>
             </li>
-            <li>No. 25, Negombo Road, Ja-Ela</li>
+            <li>No. 266, Lake City, Ja-Ela</li>
             <li>Mon – Sat: 9 AM – 6 PM</li>
           </ul>
         </div>
@@ -52,7 +52,7 @@ export default function Footer() {
 
       <div className="container footer-bottom">
         <p>© {new Date().getFullYear()} We Translate. All rights reserved.</p>
-        <p>Made with care in Sri Lanka 🇱🇰</p>
+        <p>Made by Lahiru De Silva for We Translate | Ja-Ela</p>
       </div>
     </footer>
   );

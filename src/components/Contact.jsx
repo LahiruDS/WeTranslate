@@ -1,25 +1,25 @@
 import { WhatsAppIcon } from "./icons.jsx";
 
 const whatsappLink =
-  "https://wa.me/94771234567?text=Hi%20We%20Translate%2C%20I%20would%20like%20a%20quote";
+  "https://wa.me/94704197762?text=Hi%20We%20Translate%2C%20I%20would%20like%20a%20quote";
 
 const info = [
   {
     icon: "📍",
     title: "Location",
-    body: "No. 25, Negombo Road, Ja-Ela, Sri Lanka",
+    body: "No. 266, Lake City, Ja-Ela, Sri Lanka",
   },
   {
     icon: "📞",
     title: "Phone / WhatsApp",
     body: (
-      <a href="tel:+94771234567">+94 77 123 4567</a>
+      <a href="tel:+94704197762">+94 70 419 7762</a>
     ),
   },
   {
     icon: "✉️",
     title: "Email",
-    body: <a href="mailto:hello@wetranslate.lk">hello@wetranslate.lk</a>,
+    body: <a href="mailto:ceylonlpo@gmail.com">ceylonlpo@gmail.com</a>,
   },
   {
     icon: "🕘",
