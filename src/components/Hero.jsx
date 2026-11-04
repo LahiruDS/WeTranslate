@@ -1,7 +1,7 @@
 import { MailIcon, WhatsAppIcon } from "./icons.jsx";
 
 const whatsappLink =
-  "https://wa.me/94771234567?text=Hi%20We%20Translate%2C%20I%20would%20like%20a%20quote";
+  "https://wa.me/94704197762?text=Hi%20We%20Translate%2C%20I%20would%20like%20a%20quote";
 
 export default function Hero() {
   return (
@@ -41,14 +41,12 @@ export default function Hero() {
         </div>
 
         <div className="hero-content reveal">
-          <span className="pill">🌐 Sinhala · Tamil · English · More</span>
+          <span className="pill">Sinhala · Tamil · English · Italian · more</span>
           <h1>
             Your words, <span className="accent">perfectly</span> translated.
           </h1>
           <p>
-            We Translate delivers fast, accurate and professional translation services for
-            documents, websites, business and personal needs. Trusted by individuals and
-            companies across Sri Lanka.
+            Professional sworn and certified translation services for official documents, personal records, business documents and more. We help individuals and businesses across Sri Lanka with clear, accurate and reliable translations.
           </p>
 
           <div className="hero-actions">
@@ -61,7 +59,7 @@ export default function Hero() {
               <WhatsAppIcon />
               WhatsApp Us
             </a>
-            <a className="btn btn-outline" href="mailto:hello@wetranslate.lk">
+            <a className="btn btn-outline" href="mailto:ceylonlpo@gmail.com">
               <MailIcon />
               Email Us
             </a>
