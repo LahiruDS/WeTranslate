@@ -59,7 +59,7 @@ export default function Hero() {
               <WhatsAppIcon />
               WhatsApp Us
             </a>
-            <a className="btn btn-outline" href="mailto:ceylonlpo@gmail.com">
+            <a className="btn btn-outline" href="mailto:wetranzlat@gmail.com">
               <MailIcon />
               Email Us
             </a>

@@ -19,7 +19,7 @@ const info = [
   {
     icon: "✉️",
     title: "Email",
-    body: <a href="mailto:ceylonlpo@gmail.com">ceylonlpo@gmail.com</a>,
+    body: <a href="mailto:wetranzlat@gmail.com">wetranzlat@gmail.com</a>,
   },
   {
     icon: "🕘",
@@ -59,7 +59,7 @@ export default function Contact() {
       `Name: ${name}\nPhone: ${phone}\nEmail: ${email}\nService: ${service}\n\nMessage:\n${message}`
     );
 
-    window.location.href = `mailto:hello@wetranslate.lk?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:wetranzlat@gmail.com?subject=${subject}&body=${body}`;
   };
 
   return (
@@ -95,7 +95,7 @@ export default function Contact() {
               </a>
               <a
                 className="btn btn-outline"
-                href="mailto:ceylonlpo@gmail.com?subject=Translation%20Quote%20Request"
+                href="mailto:wetranzlat@gmail.com?subject=Translation%20Quote%20Request"
               >
                 Send an Email
               </a>

@@ -42,7 +42,7 @@ export default function Footer() {
               <a href="tel:+94704197762">+94 70 419 7762</a>
             </li>
             <li>
-              <a href="mailto:ceylonlpo@gmail.com">ceylonlpo@gmail.com</a>
+              <a href="mailto:wetranzlat@gmail.com">wetranzlat@gmail.com</a>
             </li>
             <li>No. 266, Lake City, Ja-Ela</li>
             <li>Mon – Sat: 9 AM – 6 PM</li>
