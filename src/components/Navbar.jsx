@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import logo from "../assets/logo.svg";
+import logo from "../assets/we.png";
 
 const links = [
   { href: "#home", label: "Home" },
@@ -38,11 +38,8 @@ export default function Navbar() {
   return (
     <header className={`header${scrolled ? " scrolled" : ""}`} id="header">
       <div className="container nav-wrap">
-        <a href="#home" className="brand" onClick={closeMenu}>
+        <a href="#home" className="brand " onClick={closeMenu}>
           <img src={logo} alt="We Translate logo" className="brand-logo" />
-          <span className="brand-name">
-            We <span>Translate</span>
-          </span>
         </a>
 
         <nav className={`nav${menuOpen ? " open" : ""}`} id="nav">

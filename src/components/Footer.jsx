@@ -1,15 +1,12 @@
-import logo from "../assets/logo.svg";
+import logo from "../assets/we2.png";
 
 export default function Footer() {
   return (
     <footer className="footer">
       <div className="container footer-grid">
         <div>
-          <a href="#home" className="brand brand--light">
+          <a href="#home" className="">
             <img src={logo} alt="We Translate logo" className="brand-logo" />
-            <span className="brand-name">
-              We <span>Translate</span>
-            </span>
           </a>
           <p className="footer-about">
             Professional translation services in Sinhala, Tamil, English and more. Fast, accurate
