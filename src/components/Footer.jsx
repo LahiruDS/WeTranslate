@@ -49,7 +49,7 @@ export default function Footer() {
 
       <div className="container footer-bottom">
         <p>© {new Date().getFullYear()} We Translate. All rights reserved.</p>
-        <p>Made by Lahiru De Silva for We Translate | Ja-Ela</p>
+        <p>Made  by  <a href="https://www.linkedin.com/in/lahiru-de-silva-86b0b1329/">Lahiru De Silva</a>  for  We Translate | Ja-Ela</p>
       </div>
     </footer>
   );
